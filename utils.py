@@ -1,0 +1,4 @@
+# Databricks notebook source
+
+def method1(a: int, b: int) -> int:
+    return a+b
